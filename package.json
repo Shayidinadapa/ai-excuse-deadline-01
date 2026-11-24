@@ -1,0 +1,1 @@
+{"description":"The funniest, most believable excuse an AI agent could give its human for missing a deadline — one line, written to /output/entry.txt.","engines":{"node":">=22.6"},"license":"MIT","name":"ai-excuse-deadline-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
